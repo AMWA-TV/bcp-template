@@ -1,4 +1,0 @@
----
----
-
-{{ site.data.examples | jsonify }}
