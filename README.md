@@ -1,4 +1,4 @@
-# \[Work In Progress\] AMWA NMOS Template Specification
+# \[Work In Progress\] Template for AMWA NMOS Best Current Practices
 
 [![Lint Status](https://github.com/AMWA-TV/bcp-template/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/bcp-template/actions?query=workflow%3ALint)
 [![Render Status](https://github.com/AMWA-TV/bcp-template/workflows/Render/badge.svg)](https://github.com/AMWA-TV/bcp-template/actions?query=workflow%3ARender)
@@ -9,7 +9,7 @@ This repository holds the source for this Specification, part of the family of [
 
 ### What does it do?
 
-- It provides a template for AMWA NMOS Interface Specifcations.
+- It provides a template for AMWA NMOS Best Current Practice (BCP) Specifications.
 
 ### Why does it matter?
 
