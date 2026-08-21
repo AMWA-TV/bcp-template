@@ -1,7 +1,11 @@
 # \[Work In Progress\] Template for AMWA NMOS Best Current Practices
 
-[![Lint Status](https://github.com/AMWA-TV/bcp-template/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/bcp-template/actions?query=workflow%3ALint)
-[![Render Status](https://github.com/AMWA-TV/bcp-template/workflows/Render/badge.svg)](https://github.com/AMWA-TV/bcp-template/actions?query=workflow%3ARender)
+[![Lint Status](https://github.com/AMWA-TV/bcp-template/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/bcp-template/actions/workflows/lint.yml)
+[![Render Status](https://github.com/AMWA-TV/bcp-template/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/bcp-template/actions/workflows/docs.yml)
+[![License](https://img.shields.io/github/license/AMWA-TV/bcp-template)](https://github.com/AMWA-TV/bcp-template/blob/HEAD/LICENSE)
+[![Issues](https://img.shields.io/github/issues/AMWA-TV/bcp-template)](https://github.com/AMWA-TV/bcp-template/issues)
+
+[GitHub repository](https://github.com/AMWA-TV/bcp-template)
 
 This repository holds the source for this Specification, part of the family of [Networked Media Open Specifications](https://specs.amwa.tv/nmos) from the [Advanced Media Workflow Association](https://amwa.tv)
 

@@ -1,0 +1,17 @@
+[project]
+site_name = "AMWA NMOS Best Common Practice Template"
+site_description = "Template for AMWA NMOS Best Common Practice Specifications"
+site_url = "https://specs.amwa.tv/bcp-template/"
+repo_name = "AMWA-TV/bcp-template"
+repo_url = "https://github.com/AMWA-TV/bcp-template"
+extra_css = ["stylesheets/extra.css"]
+extra_javascript = ["javascripts/json-viewer.js"]
+
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
+
+[project.markdown_extensions.toc]
+permalink = false
+
+[project.extra.version]
+provider = "mike"
