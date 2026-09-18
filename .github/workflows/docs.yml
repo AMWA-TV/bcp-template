@@ -1,6 +1,8 @@
-name: Documentation
+name: Documentation (Zensical)
 run-name: ${{ case(github.event_name == 'push', '', github.event_name == 'release', format('Release - {0}', github.event.release.tag_name), format('Documentation - {0}', inputs.ref || github.ref_name)) }}
 
+# Experimental shared-toolkit rendering. The existing render.yml workflow and
+# .render pipeline remain active until the new output has been accepted.
 on:
   push:
     branches:
@@ -19,7 +21,6 @@ on:
         required: false
         type: boolean
         default: false
-
 
 permissions:
   contents: write
