@@ -1,0 +1,27 @@
+{
+  "amwa_id": "BCP-TEMPLATE",
+  "url": "https://specs.amwa.tv/bcp-template",
+  "name": "AMWA NMOS Best Common Practice Template",
+  "status": "Continuing",
+  "repo_name": "bcp-template",
+  "alt_repo_name": "nmos-bcp-template",
+  "repo_url": "https://github.com/AMWA-TV/bcp-template",
+  "releases": null,
+  "default_branch": "v1.0-dev",
+  "show_in_index": false,
+  "intro": {
+    "what_does_it_do": [
+      "It provides a template for AMWA NMOS Best Current Practice (BCP) Specifications."
+    ],
+    "why_does_it_matter": [
+      "It helps ensure consistency between NMOS Specifications.",
+      "It helps us test our continuous integration."
+    ],
+    "how_does_it_work": [
+      "It contains examples of [documentation](docs/), and [examples](examples/)",
+      "It provides a style guide and other advice for specification authors",
+      "This includes how to configure the repo for automatic linting and rendering to `specs.amwa.tv`",
+      "Select `AMWA-TV/bcp-template` as the template when creating the new repo."
+    ]
+  }
+}
