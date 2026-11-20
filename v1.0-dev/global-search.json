@@ -3,12 +3,6 @@
   "repository": "AMWA-TV/bcp-template",
   "documents": [
     {
-      "title": "Page not found",
-      "url": "https://specs.amwa.tv/bcp-template/latest/404/",
-      "text": "Page not found Page not found Page not found - [Work In Progress] Template for AMWA NMOS Best Current Practices Skip to content Page not found The page you requested could not be found. Return to the documentation home",
-      "repository": "AMWA-TV/bcp-template"
-    },
-    {
       "title": "Further Information",
       "url": "https://specs.amwa.tv/bcp-template/latest/Further%20Info/",
       "text": "Further Information Further Information Further Info - [Work In Progress] Template for AMWA NMOS Best Current Practices Skip to content Further Information This file is here for testing automation. Look at the main NMOS page for more information on NMOS!",
